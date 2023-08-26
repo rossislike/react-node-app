@@ -1,5 +1,6 @@
-# How to Create a React App with a Node Backendmkdir react-node-app
+# How to Create a React App with a Node Backend
 
+mkdir react-node-app\
 cd react-node-app\
 npm init -y\
 npm i nodemon --save-dev\
